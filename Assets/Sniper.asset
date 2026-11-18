@@ -15,7 +15,7 @@ MonoBehaviour:
   weaponName: Sniper
   damage: 500
   range: 1000
-  cooldown: 1
+  cooldown: 6
   magazineSize: 5
   automatic: 0
   zoomFOV: 30
